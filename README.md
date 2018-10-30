@@ -22,12 +22,12 @@ forward:
 |  -------------------   | ---------- | --------- | ---------- |
 |2018-10-25T08:21:00+1100| 2018-10-30 |   0.9660  |            |
 
-Investment datetime is the time you received a confirmation of an investment
-or via email. That usually happens immediately after you added a deposit via 
+Investment datetime is the date and time the confirmation of an investment
+via email. That usually happens immediately after one added a deposit via 
 the app or shortly after a pre-schedule deposite occurred.
 
-Issue data is the date (without the time!) your units have been issued. 
-This is date is clearly stated within the email you receive from them.
+Issue data is the date (without the time!) the units have been issued. 
+This is date is clearly stated within the email received from them.
 
 Buy value is the unit price provided via email.
 
