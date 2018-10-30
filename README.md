@@ -1,3 +1,17 @@
+# DISCLAIMER
+
+**While we make every effort to ensure that material on this site is accurate 
+and up to date, such material does in no way constitute the provision of 
+professional advice.**
+
+**The authors does not guarantee, and accepts no legal liability whatsoever 
+arising from or connected to, the accuracy, reliability, currency or 
+completeness of any material contained on this website or any linked site.**
+
+**Users should seek appropriate independent professional advice prior to 
+relying on, or entering into any commitment based on material published 
+here, which material is purely published for reference purposes alone.**
+
 # vger
 
 A palliative solution to a certain managed fund lack of public NAV values
