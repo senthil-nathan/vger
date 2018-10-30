@@ -15,8 +15,8 @@ here, which material is purely published for reference purposes alone.**
 # vger
 
 The two CSV files published here contain the unit prices as communicated
-back to users and contributed via pull requests. The format is straight
-forward:
+back from provider and contributed to GIT via pull requests. The format is 
+straight forward:
 
 |  investment-datetime   | issue-date | buy-value | sell-value |
 |  -------------------   | ---------- | --------- | ---------- |
